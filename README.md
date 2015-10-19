@@ -1,5 +1,8 @@
 ![bananapi-banner](https://drive.google.com/file/d/0B10NnBBYyGxnc0lKbVE0MnVHT00/view?usp=sharing)
 
+
+![19](https://cloud.githubusercontent.com/assets/15156086/10582659/97fcc958-7691-11e5-9705-f6a93d8f0b4a.PNG)
+
 # jobselection_iap
 
 - Βίντεο απο την παρουσίαση του έργου : [http://businesspi.github.io/video-parousiasi-businesspi-greeklug.html](http://businesspi.github.io/video-parousiasi-businesspi-greeklug.html)
