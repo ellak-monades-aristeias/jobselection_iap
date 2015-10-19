@@ -1,10 +1,6 @@
+![bananapi-banner](https://drive.google.com/file/d/0B10NnBBYyGxnc0lKbVE0MnVHT00/view?usp=sharing)
+
 # jobselection_iap
-
-
-
-![bananapi-banner](https://raw.githubusercontent.com/ellak-monades-aristeias/BusinessPi/master/Web-Site/images/bananapi-banner.jpg)
-
-# BusinessPi
 
 - Βίντεο απο την παρουσίαση του έργου : [http://businesspi.github.io/video-parousiasi-businesspi-greeklug.html](http://businesspi.github.io/video-parousiasi-businesspi-greeklug.html)
 - Για νέα σχετικά με την εξέλιξη του έργου επισκεφθείτε την ιστοσελίδα  [http://businesspi.github.io](http://businesspi.github.io)
