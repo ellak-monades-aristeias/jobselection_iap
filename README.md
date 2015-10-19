@@ -10,7 +10,7 @@
 - Σχετικά με την Ερευνητική Ομάδα "ATLANTIS Group" επισκεφθείται την ιστοσελίδα: http://www.atlantis-group.gr/
 - Σχετικά με την δημιουργό του έργου: [CV_Chatzidimitrakou_Christine.pdf](https://github.com/ellak-monades-aristeias/jobselection_iap/files/16151/CV_Chatzidimitrakou_Christine.pdf)
 - Για νέα σχετικά με την εξέλιξη του έργου επισκεφθείτε την ιστοσελίδα: https://ma.ellak.gr/forge/projects/jobselection_iap 
-- Για την χρήση της εφαρμογής επισκεφθείται την ιστοσελίδα: http://iap.atlantis-group.gr/TestJobSelection/home.php
+- Για την χρήση της εφαρμογής επισκεφθείτe την ιστοσελίδα: http://iap.atlantis-group.gr/TestJobSelection/home.php
 
 
 ## Σκοπός του έργου
@@ -33,31 +33,10 @@
 
 ### ReadMe.docx
 
-Περιλαμβάνει υλικό σχετικό με την ανάπτυξη του έργου, ιδιαίτερα χρήσιμο για την κατανόηση των αρχείων κώδικα. Σχετικά με τη λήψη του αρχείου αυτού επισκεφθείται την ιστοσελίδα: https://github.com/ellak-monades-aristeias/jobselection_iap/blob/master/ReadMe.docx
+Περιλαμβάνει υλικό σχετικό με την ανάπτυξη του έργου, ιδιαίτερα χρήσιμο για την κατανόηση των αρχείων κώδικα. Σχετικά με τη λήψη του αρχείου αυτού επισκεφθείται την ιστοσελίδα:
+https://github.com/ellak-monades-aristeias/jobselection_iap/blob/master/ReadMe.docx
 
-### Hardware
+### Αρχεία κώδικα
 
-Περιλαμβάνει εικόνες, τεχνικά φυλλάδια και αρχεία του υλικού που χρησιμοποιήθηκαν για την ανάπτυξη του BusinessPi-OS. Αναλυτικές πληροφορίες μπορείτε να διαβάσετε στο Wiki στο κεφάλαιο **Hardware**:
-
-- https://github.com/ellak-monades-aristeias/BusinessPi/wiki/Hardware
-
-### Images
-
-Ο φάκελος περιλαμβάνει διάφορες εικόνες που χρησιμοποιούνται στο έργο (wiki, website κλπ).
-
-### Presentations
-
-Ο φάκελος περιλαμβάνει αρχεία παρουσιάσεων του έργου στις κοινότητες ΕΛ/ΛΑΚ 
-
-
-
-
-
-
- 
-
-
-
-
-
-Αρχική σελίδα: http://iap.atlantis-group.gr/TestJobSelection/home.php
+Περιλαμβάνει τα αρχεία κώδικα που χρησιμοποιήθηκαν για την ανάπτυξη της εφαρμογής "Job Selection - IAP".
+- https://github.com/ellak-monades-aristeias/jobselection_iap
